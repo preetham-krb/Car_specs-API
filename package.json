@@ -1,0 +1,22 @@
+{
+  "name": "Car_specs-api",
+  "version": "1.0.0",
+  "description": "API to scrape car specs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cars",
+    "api",
+    "specs",
+    "nodejs"
+  ],
+  "author": "preetham.bathul@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
