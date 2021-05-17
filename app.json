@@ -1,0 +1,12 @@
+{
+  "name": "Car_specs-api",
+  "description": "API to scrape car specs.",
+  "repository":"https://github.com/preetham-reddy-bathula/Car_specs-API",
+  "logo": "",
+  "keywords": [
+    "cars",
+    "api",
+    "specs",
+    "nodejs"
+  ],
+}
